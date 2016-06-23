@@ -1,0 +1,26 @@
+{
+    "promo": [
+        {"all":  "Все"},
+        {"isNovel": "Новые"},
+        {"isPromo": "Акции"}
+    ],
+    "price": {
+        "min": 0,
+        "max": 0
+    },
+    "producer": [
+        "Bosch",
+        "Интерскол",
+        "Fixtec",
+        "Engy",
+        "Makita",
+        "Skil"
+    ],
+    "appointment": [
+        "Дрель-шуруповерт",
+        "Отвертка",
+        "Шуруповерт"
+    ],
+    "diameterChuck": "textInt",
+    "hasBattery": "yes"
+}
